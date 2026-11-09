@@ -7,9 +7,8 @@ new entries in identifier order and keep the one-line entry format.
 
 - [x] **PUB-2026-010** — *Kernelized Temporal Attention* (AAAI 2026) — paper: https://arxiv.org/abs/2512.08731
 - [x] **PUB-2026-011** — *Adaptive Vision Without Retraining* (CVPR 2026) — paper: https://arxiv.org/abs/2601.04412 — code: https://github.com/wholetherapi/vision-toolkit-179k7q4
-- [x] **PUB-2026-012** — *Graph Retrieval with Learned Routing* (NeurIPS 2026) — paper: https://arxiv.org/abs/2602.01988 — code: https://github.com/wholetherapi/graph-retrieval-179k7q4
+- [x] **PUB-2026-012** — *Graph Retrieval with Learned Routing* (NeurIPS 2026) — paper: https://arxiv.org/abs/2602.01988
 - [x] **PUB-2026-013** — *Sparse Mixture Routing for Long-Context Models* (ICLR 2027) — paper: https://arxiv.org/abs/2603.04567
-- [x] **PUB-2026-014** — *Low-Bit Attention Kernels for Edge Inference* (ICML 2027) — paper: https://arxiv.org/abs/2606.03112
 
 ## Notes
 
